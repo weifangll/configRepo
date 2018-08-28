@@ -1,4 +1,4 @@
-info: dev2
+info: dev3
 spring:
     rabbitmq:
       host: 192.168.43.245
