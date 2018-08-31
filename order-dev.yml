@@ -5,9 +5,3 @@ spring:
       port: 5672
       username: guest
       password: guest
-  cloud:
-    stream:
-      default-binder: defaultRabbit
-      binders: 
-        myMessage2:
-          destination: myMessage2 
