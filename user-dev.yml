@@ -5,6 +5,6 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql:///self
   redis:
-    host: 192.168.1.46
+    host: 192.168.0.115
     password: 123456
     port: 6379
